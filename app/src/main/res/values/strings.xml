@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Klarna Test</string>
+    <string name="title">Weather Data</string>
+    <string name="temp">Temperature :%f</string>
+    <string name="humidity">Humidity : %f</string>
+    <string name="pressure">Pressure :%f</string>
+    <string name="visibility">Visibility :%f</string>
+    <string name="somethingWentWrong">Something went wrong</string>
+    <string name="connectionError">Please check your internet connection!!</string>
+
+</resources>
